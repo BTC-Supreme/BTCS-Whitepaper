@@ -1,7 +1,5 @@
 # Bitcoin Supreme (BTCS) Official Documentation
 
-![BTCS Logo](https://cdn.imgurl.ir/uploads/q091610_BTCS-512x512-_72DPI.png)
-
 ## 📋 [Read Full Whitepaper](./WHITEPAPER.md)
 
 **The First Economic Bitcoin Token on Solana Network**
