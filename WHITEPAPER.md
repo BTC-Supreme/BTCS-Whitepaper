@@ -1,7 +1,6 @@
 # Bitcoin Supreme (BTCS)
 ## The First Economic Bitcoin Token on Solana Network
 
-![BTCS Logo](https://cdn.imgurl.ir/uploads/q091610_BTCS-512x512-_72DPI.png)
 
 **Version 1.0 | June 2025**
 
